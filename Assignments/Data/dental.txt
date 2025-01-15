@@ -1,0 +1,55 @@
+
+Data on Orthodontic Measurements on Children.
+
+Source: Table 1 (page 214) of Potthoff and Roy (1964).
+With permission of Oxford University Press.
+
+Reference: Potthoff, R.F. and Roy, S.W. (1964). A generalized 
+multivariate analysis of variance model useful especially for growth 
+curve problems. Biometrika, 51, 313-326
+
+
+Description:
+
+The data are from a study of dental growth measurements of the
+distance (mm) from the center of the pituitary gland to the
+pteryomaxillary fissure were obtained on 11 girls and 16 boys at
+ages 8, 10, 12, and 14.
+
+
+Variable List:
+
+ID, Gender, Age 8 Response, Age 10 Response,
+Age 12 Response, Age 14 Response.
+
+Note: Response is measurements of the distance (in millimeters) from the 
+center of the pituitary to the pteryomaxillary fissure.
+
+
+           1        F       21.0    20.0    21.5    23.0
+           2        F       21.0    21.5    24.0    25.5
+           3        F       20.5    24.0    24.5    26.0
+           4        F       23.5    24.5    25.0    26.5
+           5        F       21.5    23.0    22.5    23.5
+           6        F       20.0    21.0    21.0    22.5
+           7        F       21.5    22.5    23.0    25.0
+           8        F       23.0    23.0    23.5    24.0
+           9        F       20.0    21.0    22.0    21.5
+          10        F       16.5    19.0    19.0    19.5
+          11        F       24.5    25.0    28.0    28.0
+          12        M       26.0    25.0    29.0    31.0
+          13        M       21.5    22.5    23.0    26.5
+          14        M       23.0    22.5    24.0    27.5
+          15        M       25.5    27.5    26.5    27.0
+          16        M       20.0    23.5    22.5    26.0
+          17        M       24.5    25.5    27.0    28.5
+          18        M       22.0    22.0    24.5    26.5
+          19        M       24.0    21.5    24.5    25.5
+          20        M       23.0    20.5    31.0    26.0
+          21        M       27.5    28.0    31.0    31.5
+          22        M       23.0    23.0    23.5    25.0
+          23        M       21.5    23.5    24.0    28.0
+          24        M       17.0    24.5    26.0    29.5
+          25        M       22.5    25.5    25.5    26.0
+          26        M       23.0    24.5    26.0    30.0
+          27        M       22.0    21.5    23.5    25.0
